@@ -88,6 +88,7 @@ git switch -c fix/pr-definition
 git commit -am "Add forks to the PR definition"
 Add forks
 git commit -am "Give correct reason to why PRs are named that"
+Pull request sends a request to pull changes from you to remote main
 ```
 
 3. Check on GitHub whether the branch exists there or not. Does it? Why or why not?
