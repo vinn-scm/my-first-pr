@@ -86,6 +86,7 @@ git switch -c fix/pr-definition
 
 ```bash
 git commit -am "Add forks to the PR definition"
+Add forks
 git commit -am "Give correct reason to why PRs are named that"
 ```
 
